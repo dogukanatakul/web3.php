@@ -1,5 +1,5 @@
 {
-    "name": "web3p/web3.php",
+    "name": "dogukanatakul/web3.php",
     "description": "Ethereum web3 interface.",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.3|^7.0",
-        "PHP": "^7.1",
+        "PHP": "^8.1",
         "kornrunner/keccak": "~1.0",
         "phpseclib/phpseclib": "~2.0.11",
         "ext-mbstring": "*"
